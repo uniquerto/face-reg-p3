@@ -1,0 +1,33 @@
+body {
+    background-image: url("greentoblue.png");
+}
+
+.font {
+    font-family: 'Roboto', sans-serif;
+}
+
+.p1 {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom:30px;
+}
+
+.heading {
+    width:80%;
+    font-size:22px;
+    font-weight: bold;
+}
+
+.font2 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+.list {
+    font-family: 'Patrick Hand', cursive;
+    font-size:20px;
+}
+
+#camera {
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
